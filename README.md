@@ -4,7 +4,7 @@ Linux Server Configuration project for Udacity's Full Stack Web Development Nano
 # IP address and ssh port
 The hosted server can be found at http://34.224.183.249/ and ssh listens on port 2200
 
-# URL to your hosted web application
+# URL to the hosted web application
 http://34.224.183.249/catalog/
 
 # Summary of software installed and configuration changes on the server
